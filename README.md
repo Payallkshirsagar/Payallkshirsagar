@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm payal kshirsagar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw3dZXk3GIgdz9n8LE0FBsTL&ust=1740393242268000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCj66fM2YsDFQAAAAAdAAAAABAE">
 
